@@ -3,7 +3,6 @@ from turtle import Turtle
 COLORS = ["red", "orange", "yellow", "green", "blue", "purple"]
 STARTING_MOVE_DISTANCE = 5
 MOVE_INCREMENT = 10
-#create cars 20px by 40px wide random gen on y axis no cas in top and bottom 50px
 
 class CarManager:
 
