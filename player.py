@@ -2,7 +2,6 @@ from turtle import Turtle
 STARTING_POSITION = (0, -270)
 MOVE_DISTANCE = 10
 FINISH_LINE_Y = 200
-# create a turtle player starts at bottom and listens for "Up"
 
 
 class Player(Turtle):
